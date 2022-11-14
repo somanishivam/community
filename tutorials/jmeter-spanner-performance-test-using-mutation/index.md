@@ -1,5 +1,5 @@
 ---
-title: Measure Cloud Spanner performance using JMeter
+title: JMeter performance testing of Cloud Spanner via Mutation API
 description: Evaluate Cloud Spanner for custom workloads using the JMeter JSR223 Sampler.
 author: shashank-google,somanishivam
 tags: spanner, cloud spanner, evaluation, migration, performance test, mutation, client library, java
